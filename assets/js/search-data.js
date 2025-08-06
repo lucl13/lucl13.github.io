@@ -51,6 +51,9 @@ ninja.data = [{
       },{id: "news-chenlin-s-academic-page-is-now-online-sparkles-smile",
           title: 'Chenlin’s academic page is now online! :sparkles: :smile:',
           description: "",
+          section: "News",},{id: "news-presented-a-poster-on-pfnet-at-the-nyc-ai4chemistry-summit-2025",
+          title: 'Presented a poster on PFNet at the NYC AI4Chemistry Summit 2025',
+          description: "",
           section: "News",},{
         id: 'social-email',
         title: 'email',
