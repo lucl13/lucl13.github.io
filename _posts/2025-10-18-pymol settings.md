@@ -35,3 +35,5 @@ set direct, 0.45
 set valence, 0
 # space cmyk
 ```
+
+<img src="/assets/img/post/0001_pymol_example.png" width="400" alt="PIGEON-FEATHER">
