@@ -37,15 +37,15 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "post-hx-ms",
+        },{id: "post-my-favorite-pymol-settings",
         
-          title: "HX/MS",
+          title: "My favorite PyMOL settings",
         
-        description: "a brief introduction to how HX/MS works",
+        description: "The PyMOL settings I always use for my figures, clean, soft, and publication ready",
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2025/plotly/";
+            window.location.href = "/blog/2025/pymol-settings/";
           
         },
       },{id: "news-chenlin-s-academic-page-is-now-online-sparkles-smile",
@@ -53,6 +53,12 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "news-presented-a-poster-on-pfnet-at-the-nyc-ai4chemistry-summit-2025",
           title: 'Presented a poster on PFNet at the NYC AI4Chemistry Summit 2025',
+          description: "",
+          section: "News",},{id: "news-introduced-hxms-a-standardized-file-format-for-hx-ms-data",
+          title: 'Introduced HXMS, a standardized file format for HX/MS data',
+          description: "",
+          section: "News",},{id: "news-pigeon-feather-is-now-officially-published-online-in-nature-chemical-biology",
+          title: 'PIGEON-FEATHER is now officially published online in Nature Chemical Biology!',
           description: "",
           section: "News",},{
         id: 'social-email',
