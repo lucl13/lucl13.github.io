@@ -9,7 +9,7 @@ chart:
   plotly: true
 ---
 
-I often get asked how I generate the molecular graphics in my HX/MS and PIGEON-FEATHER papers. Here are my favorite PyMOL settings. 
+I often get asked how I generate the molecular graphics in my HX/MS and PIGEON-FEATHER papers. Here are my favorite PyMOL settings.
 
 ```python
 # basic display settings
