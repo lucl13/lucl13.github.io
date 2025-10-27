@@ -103,6 +103,27 @@
   ],
   "presentations": [
     {
+      "name": "A machine learning method to discover hidden protein conformational states",
+      "publisher": "Stowers Research Conferences: AI-Driven Approaches to Emergent Protein Behaviors",
+      "releaseDate": "2025-10-24",
+      "url": "https://www.stowers.org/events/stowers-research-conferences-protein-ai-3",
+      "summary": "Talk, Kansas City, United States"
+    },
+    {
+      "name": "PFNet: a machine learning method for calculating local protein stabilities from HX/MS data",
+      "publisher": "Columbia University BMB Seminar Series",
+      "releaseDate": "2025-07-18",
+      "url": "",
+      "summary": "Talk, New York, United States"
+    },
+    {
+      "name": "PFNet: a machine learning method for calculating hyperlocal protein stabilities from HX/MS data",
+      "publisher": "NYC AI4Chemistry Summit 2025",
+      "releaseDate": "2025-06-25",
+      "url": "https://wp.nyu.edu/sccpc/nyc-ai4chemistry-summit/",
+      "summary": "Talk, New York, United States"
+    },
+    {
       "name": "Reshaping the free energy landscape of phosphofructokinase-1 by allosteric regulation",
       "publisher": "New York City Integrative Structural Biology Symposium",
       "releaseDate": "2024-10-09",
