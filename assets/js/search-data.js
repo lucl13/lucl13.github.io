@@ -60,6 +60,12 @@ ninja.data = [{
           section: "News",},{id: "news-pigeon-feather-is-now-officially-published-online-in-nature-chemical-biology",
           title: 'PIGEON-FEATHER is now officially published online in Nature Chemical Biology!',
           description: "",
+          section: "News",},{id: "news-introduced-pfnet-a-deep-learning-framework-that-determines-residue-level-δgop-from-hx-ms-data",
+          title: 'Introduced PFNet, a deep-learning framework that determines residue-level ΔGop from HX/MS data',
+          description: "",
+          section: "News",},{id: "news-presented-pfnet-at-the-src-ai-driven-approaches-to-emergent-protein-behaviors",
+          title: 'Presented PFNet at the SRC:AI-Driven Approaches to Emergent Protein Behaviors',
+          description: "",
           section: "News",},{
         id: 'social-email',
         title: 'email',
