@@ -4,6 +4,8 @@ github_users:
 repo_description_lines_max: 2
 
 github_repos:
+  - glasgowlab/PFNet
+  - glasgowlab/PIGEON-FEATHER
   - matteoferla/pyrosetta-help
   - Kuhlman-Lab/proteinmpnn
   - deeptime-ml/deeptime
