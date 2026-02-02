@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Chenlin's academic page is now online! :sparkles: :smile:
+Chenlin's academic page is now online! :sparkles: :smile:.
