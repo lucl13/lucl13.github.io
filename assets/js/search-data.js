@@ -30,7 +30,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "post-my-favorite-pymol-settings",
+        },{id: "post-pfnet-viewer",
+        
+          title: "PFNet Viewer",
+        
+        description: "A VSCode extension for interactive visualization of PDB files from PFNet predictions",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/PFNet_viewer/";
+          
+        },
+      },{id: "post-my-favorite-pymol-settings",
         
           title: "My favorite PyMOL settings",
         
@@ -61,6 +72,9 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "news-pigeon-feather-is-featured-as-the-cover-of-the-current-issue-in-nature-chemical-biology",
           title: 'PIGEON-FEATHER is featured as the cover of the current issue in Nature Chemical...',
+          description: "",
+          section: "News",},{id: "news-new-preprint-on-pfk-allostery-is-out-on-biorxiv",
+          title: 'New preprint on PFK allostery is out on bioRxiv.',
           description: "",
           section: "News",},{
         id: 'social-email',
