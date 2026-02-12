@@ -30,7 +30,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "post-pfnet-viewer",
+        },{id: "post-a-brief-introduction-to-hx",
+        
+          title: "A brief Introduction to HX",
+        
+        description: "The basics of hydrogen exchange and how we extract thermodynamic information from it",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/HX-MS/";
+          
+        },
+      },{id: "post-pfnet-viewer",
         
           title: "PFNet Viewer",
         
