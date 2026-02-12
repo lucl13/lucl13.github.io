@@ -1,0 +1,36 @@
+---
+---
+<style>
+  ol.bibliography:has(.bib-simple-entry) {
+    margin-left: 0 !important;
+    padding-left: 0 !important;
+    list-style-position: inside !important;
+  }
+  ol.bibliography:has(.bib-simple-entry) > li {
+    margin-left: 0 !important;
+    padding-left: 0 !important;
+    text-indent: 0 !important;
+  }
+</style>
+<span class="bib-simple-entry">
+  {%- for author in entry.author_array -%}
+    {%- if forloop.first == false -%}
+      {%- if forloop.last %} & {% else %}, {% endif -%}
+    {%- endif -%}
+    {{ author.last }}, {{ author.first | slice: 0 }}.
+  {%- endfor -%}
+  {% if entry.year %} ({{ entry.year }}).{% endif %}
+  {{ entry.title }}.
+  {%- if entry.journal %}
+    <em>{{ entry.journal }}</em>
+  {%- endif -%}
+  {%- if entry.booktitle %}
+    <em>{{ entry.booktitle }}</em>
+  {%- endif %}
+  {%- if entry.volume %}, {{ entry.volume }}{% endif -%}
+  {%- if entry.pages %}, {{ entry.pages }}{% endif -%}
+  .
+  {%- if entry.doi %}
+    <a href="https://doi.org/{{ entry.doi }}">[DOI]</a>
+  {%- endif -%}
+</span>
