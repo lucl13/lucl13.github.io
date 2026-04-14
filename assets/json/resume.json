@@ -65,11 +65,11 @@
       "endDate": "",
       "summary": "Department: Biochemistry and Molecular Biophysics. Advisor: Prof. Anum Glasgow. Field: computational and experimental biophysics",
       "highlights": [
-        "To determine site-resolved energetic information from hydrogen exchange/mass spectrometry (HX/MS) data",
+        "To determine site-resolved energetic information from hydrogen exchange-mass spectrometry (HX-MS) data",
         "To elucidate allosteric mechanism using the site-resolved free energies of opening (ΔGop)",
-        "Developed PIGEON-FEATHER, a Bayesian method to determine site-resolved protection factors from peptide-level HX/MS data via isotopic mass envelope reconstruction",
+        "Developed PIGEON-FEATHER, a Bayesian method to determine site-resolved protection factors from peptide-level HX-MS data via isotopic mass envelope reconstruction",
         "Designed PFNet, an end-to-end ML method for predicting protection factors directly from raw mass spectra",
-        "Unveiled the allosteric ligand regulation mechanism of phosphofructokinase by integrating HX/MS (PIGEON-FEATHER and PFNet) with MD simulations"
+        "Unveiled the allosteric ligand regulation mechanism of phosphofructokinase by integrating HX-MS (PIGEON-FEATHER and PFNet) with MD simulations"
       ]
     },
     {
@@ -110,14 +110,14 @@
       "summary": "Talk, Kansas City, United States"
     },
     {
-      "name": "PFNet: a machine learning method for calculating local protein stabilities from HX/MS data",
+      "name": "PFNet: a machine learning method for calculating local protein stabilities from HX-MS data",
       "publisher": "Columbia University BMB Seminar Series",
       "releaseDate": "2025-07-18",
       "url": "",
       "summary": "Talk, New York, United States"
     },
     {
-      "name": "PFNet: a machine learning method for calculating hyperlocal protein stabilities from HX/MS data",
+      "name": "PFNet: a machine learning method for calculating hyperlocal protein stabilities from HX-MS data",
       "publisher": "NYC AI4Chemistry Summit 2025",
       "releaseDate": "2025-06-25",
       "url": "https://wp.nyu.edu/sccpc/nyc-ai4chemistry-summit/",
@@ -131,7 +131,7 @@
       "summary": "Poster Presentation, New York, United States"
     },
     {
-      "name": "Site-resolved energetic information from HX/MS experiments",
+      "name": "Site-resolved energetic information from HX-MS experiments",
       "publisher": "Columbia University BMB Retreat",
       "releaseDate": "2024-09-13",
       "url": "",
@@ -237,7 +237,7 @@
       "name": "Experimental Biophysics",
       "level": "Proficient",
       "icon": "fa-solid fa-flask",
-      "keywords": ["Protein expression and purification", "Hydrogen exchange/mass spectrometry (HX/MS)", "X-ray crystallography"]
+      "keywords": ["Protein expression and purification", "Hydrogen exchange/mass spectrometry (HX-MS)", "X-ray crystallography"]
     },
     {
       "name": "Markov state models",
