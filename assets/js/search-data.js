@@ -90,6 +90,9 @@ ninja.data = [{
           section: "News",},{id: "news-the-hxms-format-has-been-published-in-bioinformatics",
           title: 'The HXMS format has been published in Bioinformatics.',
           description: "",
+          section: "News",},{id: "news-chenlin-received-the-nih-pathway-to-independence-award-k99-r00-from-nigms",
+          title: 'Chenlin received the NIH Pathway to Independence Award (K99/R00) from NIGMS.',
+          description: "",
           section: "News",},{
         id: 'social-email',
         title: 'email',
