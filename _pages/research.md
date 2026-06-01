@@ -5,6 +5,7 @@ title: research
 nav: true
 nav_order: 0
 ---
+
 Proteins function as dynamic ensembles of interconverting conformations shaped by free energy landscapes. I combine computational and experimental biophysics with machine learning to understand how protein dynamics encode function, how biological perturbations reshape conformational landscapes, and how these principles can be used to design new proteins with controllable activities.
 
 <div class="row justify-content-center mt-4 mb-4">
@@ -47,7 +48,9 @@ Proteins function as dynamic ensembles of interconverting conformations shaped b
 </div>
 
 ---
+
 #### Pushing HX-MS to residue resolution
+
 {:#hxms}
 
 <div class="row mt-3 mb-4">
@@ -57,6 +60,7 @@ Proteins function as dynamic ensembles of interconverting conformations shaped b
 </div>
 
 #### Mapping conformational landscapes
+
 {:#landscapes}
 
 <div class="row mt-3 mb-4">
@@ -66,6 +70,7 @@ Proteins function as dynamic ensembles of interconverting conformations shaped b
 </div>
 
 #### Designing protein dynamics de novo
+
 {:#design}
 
 <div class="row mt-3 mb-4">
