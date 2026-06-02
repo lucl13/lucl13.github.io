@@ -39,7 +39,7 @@ ninja.data = [{
           },
         },{id: "post-a-brief-introduction-to-hx",
         
-          title: "A brief Introduction to HX",
+          title: "A brief introduction to HX",
         
         description: "The basics of hydrogen exchange and how we extract thermodynamic information from it",
         section: "Posts",
