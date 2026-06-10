@@ -100,6 +100,9 @@ ninja.data = [{
           section: "News",},{id: "news-chenlin-received-the-nih-pathway-to-independence-award-k99-r00-from-nigms",
           title: 'Chenlin received the NIH Pathway to Independence Award (K99/R00) from NIGMS.',
           description: "",
+          section: "News",},{id: "news-our-study-on-tfs-pbps-is-now-officially-published-online-in-nature-chemistry",
+          title: 'Our study on TFs/PBPs is now officially published online in Nature Chemistry!',
+          description: "",
           section: "News",},{
         id: 'social-email',
         title: 'email',
